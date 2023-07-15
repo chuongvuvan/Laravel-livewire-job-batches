@@ -11,7 +11,7 @@
     @livewireStyles
 </head>
 <body>
-
+@livewire('manage-transfers')
 @livewireScripts
 <script src="{{ asset('js/app.js') }}" type="text/javascript"></script>
 </body>
